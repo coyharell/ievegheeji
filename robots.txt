@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aezahtoono.brenopolanski.com/sitemap.xml
